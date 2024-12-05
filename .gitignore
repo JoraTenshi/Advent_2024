@@ -1,0 +1,9 @@
+*.out
+*.o
+.vscode
+.dSYM
+.DS_Store
+*.a
+*.dSYM
+.idea/
+.venv/
